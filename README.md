@@ -12,7 +12,7 @@ Our mission is to restore hope and guide people through personalized digital sup
 - Mobile-friendly design
 
 ## 🌍 Live Website
-[https://alexsmith-afk.github.io/rektramind/](https://alexsmith-afk.github.io/rektramind/)
+[https://alexsmith-afk.github.io/rektramind/](https://sabronredai-afk.github.io/rektramind/)
 
 ## 📦 Built With
 - HTML
